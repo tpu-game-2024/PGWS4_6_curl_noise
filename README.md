@@ -2,10 +2,10 @@
 テクスチャに対してレンダリングを行います。
 
 ## 結果
-https://github.com/user-attachments/assets/0863b756-8a06-4a4e-aae5-21362bc234dc
+![課題結果](Result_.gif)
 
 # 自分なりに変更した点
--
+- 横に引き伸ばされるようにしました
 -
 -
 
